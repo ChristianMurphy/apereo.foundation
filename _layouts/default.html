@@ -10,8 +10,9 @@
     <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
     <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
   </head>
-  <body class="mdl-layout__container">
+  <body class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
     {% include header.html %}
+    {% include drawer.html %}
     <main class="mdl-layout__content">
       {{ content }}
     </main>

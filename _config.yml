@@ -1,16 +1,36 @@
 markdown: CommonMarkGhPages
+url: "https://apereo.foundation"
 paginate: 10
+repository: ChristianMurphy/apereo.foundation
 
 collections:
-   projects:
-     output: true
-     permalink: /:collection/:name
+  projects:
+    output: true
+    permalink: /:collection/:name
+  events:
+    output: true
+    permalink: /:collection/:name
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: projects
+    values:
+      layout: default
+  -
+    scope:
+      path: ""
+      type: events
+    values:
+      layout: default
 
 plugins:
   - jekyll-commonmark-ghpages
   - jekyll-feed
   - jekyll-github-metadata
   - jekyll-mentions
+  - jekyll-paginate
   - jekyll-readme-index
   - jekyll-seo-tag
   - jekyll-sitemap
