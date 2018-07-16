@@ -1,0 +1,17 @@
+markdown: CommonMarkGhPages
+paginate: 10
+
+collections:
+   projects:
+     output: true
+     permalink: /:collection/:name
+
+plugins:
+  - jekyll-commonmark-ghpages
+  - jekyll-feed
+  - jekyll-github-metadata
+  - jekyll-mentions
+  - jekyll-readme-index
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
