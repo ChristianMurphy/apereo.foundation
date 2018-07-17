@@ -25,6 +25,9 @@ defaults:
     values:
       layout: default
 
+exclude:
+  - .github
+
 plugins:
   - jekyll-commonmark-ghpages
   - jekyll-feed
