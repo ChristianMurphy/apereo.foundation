@@ -1,4 +1,4 @@
-markdown: CommonMarkGhPages
+markdown: kramdown
 url: "https://apereo.foundation"
 paginate: 10
 repository: ChristianMurphy/apereo.foundation
@@ -29,7 +29,6 @@ exclude:
   - .github
 
 plugins:
-  - jekyll-commonmark-ghpages
   - jekyll-feed
   - jekyll-github-metadata
   - jekyll-mentions
