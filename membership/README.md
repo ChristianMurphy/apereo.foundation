@@ -37,9 +37,10 @@ Organizational Membership Dues
 Apereo membership consists of two elements. The first is a  Core Foundation
 Subscription paid by all members. This covers key services Apereo provides for
 all its software communities – technical infrastructure, legal and licensing
-support, community coordination, events and outreach. The second is a Supporting Subscription for specific Apereo Projects. For example, the Sakai Supporting
-Subscription pays for Sakai specific staff – the  Sakai Community Coordinator –
-together with Sakai specific infrastructure, travel and events.
+support, community coordination, events, and outreach. The second is a
+Supporting Subscription for specific Apereo Projects. For example, the Sakai
+Supporting Subscription pays for Sakai specific staff – the  Sakai Community
+Coordinator – together with Sakai specific infrastructure, travel and events.
 
 The dues levels set by the Apereo Board for 2018 for educational organizations
 are as follows.
