@@ -46,3 +46,74 @@ The dues levels set by the Apereo Board for 2018 for educational organizations
 are as follows.
 
 TODO: add dues tables
+
+Core Foundation Dues and Sakai Supporting Subscription dues vary by the annual
+budget of the member institution.
+
+CAS and Bedework Supporting Subscription dues are a fixed price regardless of
+member institution budget.
+
+uPortal Supporting Subscription is offered at several levels not tied to
+member institution budget.
+
+### Dues in US dollars
+
+<table>
+  <tr>
+    <th>Annual Budget USA (USD)</th>
+    <th>Core Foundation</th>
+    <th>Sakai Supporting Subscription</th>
+  </tr>
+  <tr>
+    <td>$0 - 25 million</td>
+    <td>2,160.00</td>
+    <td>900.00</td>
+  </tr>
+  <tr>
+    <td>$25 million to 100 million</td>
+    <td>4,680.00</td>
+    <td>1950.00</td>
+  </tr>
+  <tr>
+    <td>$100 million - 750 million</td>
+    <td>9,720.00</td>
+    <td>4050.00</td>
+  </tr>
+  <tr>
+    <td>$750 million - 4 billion</td>
+    <td>12,600</td>
+    <td>5,250.00</td>
+  </tr>
+    <tr>
+    <td>More than $4 billion</td>
+    <td>16,200</td>
+    <td>6,750.00</td>
+  </tr>
+</table>
+
+**Bedework supporting subscription:** $500.00
+
+**CAS supporting subscription:** $500.00
+
+<table>
+  <tr>
+    <th>uPortal Supporting Subscription level</th>
+    <th>Dues in US dollars</th>
+  </tr>
+  <tr>
+    <td>Bronze - uPortal Friend</td>
+    <td>1,000.00</td>
+  </tr>
+    <tr>
+    <td>Silver - uPortal Booster</td>
+    <td>5,000.00</td>
+  </tr>
+    <tr>
+    <td>Gold - uPortal Sustainer</td>
+    <td>10,000.00</td>
+  </tr>
+    <tr>
+    <td>Platinum - uPortal Champion</td>
+    <td>20,000.00</td>
+  </tr>
+</table>
