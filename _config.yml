@@ -1,8 +1,24 @@
 markdown: kramdown
-url: "https://apereo.foundation"
 paginate: 10
+
+# Search engine optimizations
+url: https://apereo.foundation
+twitter:
+  username: Apereo
+facebook:
+  publisher: apereo
+social:
+  name: Apereo Foundation
+  links:
+    - https://twitter.com/Apereo
+    - https://www.facebook.com/apereo
+    - https://apereo.slack.com
+    - https://github.com/apereo
+
+# context for github metadata plugin
 repository: ChristianMurphy/apereo.foundation
 
+# group related content into collections
 collections:
   projects:
     output: true
@@ -11,6 +27,7 @@ collections:
     output: true
     permalink: /:collection/:name
 
+# set defaults for the collections
 defaults:
   -
     scope:
@@ -25,9 +42,12 @@ defaults:
     values:
       layout: default
 
+# files and folders that will not be included
 exclude:
   - .github
 
+# enable plugins supported by
+# https://pages.github.com/versions/
 plugins:
   - jekyll-feed
   - jekyll-github-metadata
