@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+<style>
+@media (min-width: 700px) {
+  .apereo-project-card {
+
+    top: 70px;
+    right: 25px;
+    position: fixed;
+  }
+  .apereo-project-content {
+    width: calc(100% - (330px + 70px));
+    min-width: 300px
+  }
+}
+
+@media (max-width: 699px) {
+  .apereo-project-card {
+    display: none;
+  }
+}
+</style>
+
+<article class="mdl-grid">
+  <aside class="apereo-project-card">
+    <div class="demo-card-wide mdl-card mdl-shadow--2dp">
+      <div class="mdl-card__title">
+        <h2 class="mdl-card__title-text">
+          {{ page.title }}
+        </h2>
+      </div>
+      <div class="mdl-card__supporting-text">
+        {{ page.description }}
+      </div>
+      <div class="mdl-card__actions mdl-card--border">
+        {% if page.project.website %}
+          <a href="{{ page.project.website }}" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+            Website
+          </a>
+        {% endif %}
+        {% if page.project.repository %}
+          <a href="{{ page.project.repository }}" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+            Repository
+          </a>
+        {% endif %}
+        {% if page.project.wikipedia %}
+          <a href="{{ page.project.wikipedia }}" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+            Wikipedia
+          </a>
+        {% endif %}
+        {% if page.project.twitter %}
+          <a href=" {{page.project.twitter }}" class="mdl-button mdl-button--colored mdl-js-button mdl-js-ripple-effect">
+            Twitter
+          </a>
+        {% endif %}
+      </div>
+    </div>
+  </aside>
+  <section class="apereo-project-content">
+    {{ content }}
+  </section>
+</article>

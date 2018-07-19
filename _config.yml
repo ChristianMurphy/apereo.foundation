@@ -3,10 +3,11 @@ paginate: 10
 
 # Search engine optimizations
 url: https://apereo.foundation
+description: Apereo is a vibrant and value-driven education software foundation.
 twitter:
   username: Apereo
 facebook:
-  publisher: apereo
+  publisher: https://www.facebook.com/apereo
 social:
   name: Apereo Foundation
   links:
@@ -31,16 +32,15 @@ collections:
 defaults:
   -
     scope:
-      path: ""
-      type: projects
+      path: "" # an empty string here means all files in the project
     values:
       layout: default
   -
     scope:
       path: ""
-      type: events
+      type: projects
     values:
-      layout: default
+      layout: project
 
 # files and folders that will not be included
 exclude:
@@ -56,4 +56,5 @@ plugins:
   - jekyll-readme-index
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-titles-from-headings
   - jemoji

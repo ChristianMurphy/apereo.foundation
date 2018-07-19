@@ -1,8 +1,10 @@
 ---
 title: Apereo Projects
-layout: default
 permalink: projects/
+description: Apereo is made up of a series of overlapping and interlocking software, regional and thematic communities.
 ---
+
+Apereo is made up of a series of overlapping and interlocking software, regional and thematic communities.
 
 ## Projects
 
@@ -15,7 +17,7 @@ permalink: projects/
       <a href="{{ project.url }}">
         <i class="material-icons mdl-list__item-avatar">public</i>
         <span>{{ project.title }}</span>
-        <span class="mdl-list__item-sub-title">{{ project.description }}</span>
+        <span class="mdl-list__item-text-body">{{ project.description }}</span>
       </a>
     </li>
 
@@ -36,7 +38,7 @@ permalink: projects/
       <a href="{{ project.url }}">
         <i class="material-icons mdl-list__item-avatar">public</i>
         <span>{{ project.title }}</span>
-        <span class="mdl-list__item-sub-title">{{ project.description }}</span>
+        <span class="mdl-list__item-text-body">{{ project.description }}</span>
       </a>
     </li>
 
