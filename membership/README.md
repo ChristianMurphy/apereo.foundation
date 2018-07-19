@@ -32,7 +32,7 @@ By becoming an Apereo Foundation member, you –
 
 More information about our individual membership program, Friends of Apereo.
 
-Organizational Membership Dues
+## Organizational Membership Dues
 
 Apereo membership consists of two elements. The first is a  Core Foundation
 Subscription paid by all members. This covers key services Apereo provides for
