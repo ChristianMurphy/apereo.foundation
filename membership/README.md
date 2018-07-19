@@ -7,7 +7,7 @@ permalink: membership/
 # Apereo Foundation Membership
 
 The  Apereo Foundation is a New Jersey non-stock, non-profit corporation, with
-members drawn from higher education on four continents. It’s mission? To help
+members drawn from higher education on four continents. Its mission? To help
 educational organizations deliver their mission, by developing and sustaining
 open source software. Open source software provides educational institutions
 with choices in a marketplace otherwise dominated by commercial proprietary
