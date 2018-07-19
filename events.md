@@ -1,6 +1,5 @@
 ---
 title: Apereo Events
-layout: default
 permalink: events/
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Apereo Foundation
-layout: default
 ---
 
 # Apereo Foundation
