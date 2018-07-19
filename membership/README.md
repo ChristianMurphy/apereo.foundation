@@ -8,10 +8,10 @@ permalink: membership/
 
 The  Apereo Foundation is a New Jersey non-stock, non-profit corporation, with
 members drawn from higher education on four continents. Its mission? To help
-educational organizations deliver their mission, by developing and sustaining
+educational organizations deliver their mission by developing and sustaining
 open source software. Open source software provides educational institutions
 with choices in a marketplace otherwise dominated by commercial proprietary
-vendors. It plays a major role in keeping the market honest, and fostering
+vendors. It plays a major role in keeping the market honest and fostering
 innovation.
 
 By becoming an Apereo Foundation member, you –
@@ -35,7 +35,7 @@ More information about our individual membership program, Friends of Apereo.
 Organizational Membership Dues
 
 Apereo membership consists of two elements. The first is a  Core Foundation
-Subscription, paid by all members. This covers key services Apereo provides for
+Subscription paid by all members. This covers key services Apereo provides for
 all its software communities – technical infrastructure, legal and licensing
 support, community coordination, events and outreach. The second is a Supporting Subscription for specific Apereo Projects. For example, the Sakai Supporting
 Subscription pays for Sakai specific staff – the  Sakai Community Coordinator –
