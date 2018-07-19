@@ -58,62 +58,21 @@ member institution budget.
 
 ### Dues in US dollars
 
-<table>
-  <tr>
-    <th>Annual Budget USA (USD)</th>
-    <th>Core Foundation</th>
-    <th>Sakai Supporting Subscription</th>
-  </tr>
-  <tr>
-    <td>$0 - 25 million</td>
-    <td>2,160</td>
-    <td>900</td>
-  </tr>
-  <tr>
-    <td>$25 million to 100 million</td>
-    <td>4,680</td>
-    <td>1950</td>
-  </tr>
-  <tr>
-    <td>$100 million - 750 million</td>
-    <td>9,720</td>
-    <td>4050</td>
-  </tr>
-  <tr>
-    <td>$750 million - 4 billion</td>
-    <td>12,600</td>
-    <td>5,250</td>
-  </tr>
-    <tr>
-    <td>More than $4 billion</td>
-    <td>16,200</td>
-    <td>6,750</td>
-  </tr>
-</table>
+| Annual Budget USA (USD) | Core Foundation | Sakai Supporting Subscription |
+| ----------------------- | --------------- | ----------------------------- |
+| less than $25 million   |  2,160          |   900                         |
+| less than $100 million  |  4,680          | 1,950                         |
+| less than $750 million  |  9,720          | 4,050                         |
+| less than $4 billion    | 12,600          | 5,250                         |
+| more than $4 billion    | 16,200          | 6,750                         |
 
 **Bedework supporting subscription:** $500
 
 **CAS supporting subscription:** $500
 
-<table>
-  <tr>
-    <th>uPortal Supporting Subscription level</th>
-    <th>Dues in US dollars</th>
-  </tr>
-  <tr>
-    <td>Bronze - uPortal Friend</td>
-    <td>1,000</td>
-  </tr>
-    <tr>
-    <td>Silver - uPortal Booster</td>
-    <td>5,000</td>
-  </tr>
-    <tr>
-    <td>Gold - uPortal Sustainer</td>
-    <td>10,000</td>
-  </tr>
-    <tr>
-    <td>Platinum - uPortal Champion</td>
-    <td>20,000</td>
-  </tr>
-</table>
+| uPortal Supporting Subscription level | Dues in US dollars |
+| ------------------------------------- | ------------------ |
+| Bronze - uPortal Friend               |  1,000             |
+| Silver - uPortal Booster              |  5,000             |
+| Gold - uPortal Sustainer              | 10,000             |
+| Platinum - uPortal Champion           | 20,000             |
