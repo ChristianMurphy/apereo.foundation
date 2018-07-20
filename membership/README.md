@@ -118,3 +118,24 @@ member institution budget.
 | Silver - uPortal Booster              |  4,750                   |
 | Gold - uPortal Sustainer              |  9,500                   |
 | Platinum - uPortal Champion           | 19,000                   |
+
+### United Kingdom (UK Pounds Sterling)
+
+| Annual Budget (UKP)     | Core Foundation | Sakai Supporting Subscription |
+| ----------------------- | --------------- | ----------------------------- |
+| less than $25 million   |    729          |   729                         |
+| less than $100 million  |  1,579.50       | 1,579.50                      |
+| less than $750 million  |  3,280.50       | 3,280.50                      |
+| less than $4 billion    |  4,252.50       | 4,252.50                      |
+| more than $4 billion    |  5,467.50       | 5,467.50                      |
+
+**Bedework supporting subscription:** 405 UK Pounds Sterling
+
+**CAS supporting subscription:** 405 UK Pounds Sterling
+
+| uPortal Supporting Subscription level | Dues in UK Pounds Sterling |
+| ------------------------------------- | -------------------------- |
+| Bronze - uPortal Friend               |    810                     |
+| Silver - uPortal Booster              |  4,050                     |
+| Gold - uPortal Sustainer              |  8,100                     |
+| Platinum - uPortal Champion           | 16,200                     |
