@@ -32,6 +32,8 @@ By becoming an Apereo Foundation member, you –
 
 More information about our individual membership program, Friends of Apereo.
 
+TODO: link Friends of Apereo page, which does not yet exist here.
+
 ## Organizational Membership Dues
 
 Apereo membership consists of two elements. The first is a  Core Foundation
