@@ -56,7 +56,7 @@ member institution budget.
 uPortal Supporting Subscription is offered at several levels not tied to
 member institution budget.
 
-### Dues in US dollars
+### United States (USD)
 
 | Annual Budget USA (USD) | Core Foundation | Sakai Supporting Subscription |
 | ----------------------- | --------------- | ----------------------------- |
@@ -76,3 +76,24 @@ member institution budget.
 | Silver - uPortal Booster              |  5,000             |
 | Gold - uPortal Sustainer              | 10,000             |
 | Platinum - uPortal Champion           | 20,000             |
+
+### Canada (CAD)
+
+| Annual Budget (CAD) | Core Foundation | Sakai Supporting Subscription |
+| ----------------------- | --------------- | ----------------------------- |
+| less than $25 million   |  2,851          | 1,188                         |
+| less than $100 million  |  6,177          | 2,574                         |
+| less than $750 million  | 12,830          | 5,346                         |
+| less than $4 billion    | 16,632          | 6,930                         |
+| more than $4 billion    | 21,384          | 8,910                         |
+
+**Bedework supporting subscription:** $660
+
+**CAS supporting subscription:** $660
+
+| uPortal Supporting Subscription level | Dues in Canadian dollars |
+| ------------------------------------- | ------------------------ |
+| Bronze - uPortal Friend               |  1,320                   |
+| Silver - uPortal Booster              |  6,600                   |
+| Gold - uPortal Sustainer              | 13,200                   |
+| Platinum - uPortal Champion           | 26,400                   |
