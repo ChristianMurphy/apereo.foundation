@@ -1,6 +1,7 @@
 ---
 title: Audit Committee
 layout: default
+permalink: governance/board/audit/
 ---
 
 # Audit committee

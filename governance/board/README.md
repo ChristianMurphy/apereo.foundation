@@ -1,6 +1,7 @@
 ---
 title: Apereo Board
 layout: default
+permalink: governance/board/
 ---
 
 # Apereo Board of Directors
