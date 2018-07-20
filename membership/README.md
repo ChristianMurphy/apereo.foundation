@@ -45,8 +45,6 @@ travel, and events.
 The dues levels set by the Apereo Board for 2018 for educational organizations
 are as follows.
 
-TODO: add dues tables
-
 Core Foundation Dues and Sakai Supporting Subscription dues vary by the annual
 budget of the member institution.
 
