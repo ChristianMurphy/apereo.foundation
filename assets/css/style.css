@@ -1,0 +1,23 @@
+.apereo-header-title-link {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+@media (min-width: 700px) {
+  .apereo-project-card {
+
+    top: 70px;
+    right: 25px;
+    position: fixed;
+  }
+  .apereo-project-content {
+    width: calc(100% - (330px + 70px));
+    min-width: 300px
+  }
+}
+
+@media (max-width: 699px) {
+  .apereo-project-card {
+    display: none;
+  }
+}
