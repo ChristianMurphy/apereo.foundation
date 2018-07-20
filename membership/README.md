@@ -97,3 +97,24 @@ member institution budget.
 | Silver - uPortal Booster              |  6,600                   |
 | Gold - uPortal Sustainer              | 13,200                   |
 | Platinum - uPortal Champion           | 26,400                   |
+
+### Eurozone (Euro)
+
+| Annual Budget (Euro)    | Core Foundation | Sakai Supporting Subscription |
+| ----------------------- | --------------- | ----------------------------- |
+| less than $25 million   |  2,052          |   855                         |
+| less than $100 million  |  4,446          | 1,852.50                      |
+| less than $750 million  |  9,234          | 3,847.50                      |
+| less than $4 billion    | 11,970          | 4,987                         |
+| more than $4 billion    | 15,390          | 6,412.50                      |
+
+**Bedework supporting subscription:** 475 Euros
+
+**CAS supporting subscription:** 475 Euros
+
+| uPortal Supporting Subscription level | Dues in Euros |
+| ------------------------------------- | ------------------------ |
+| Bronze - uPortal Friend               |    950                   |
+| Silver - uPortal Booster              |  4,750                   |
+| Gold - uPortal Sustainer              |  9,500                   |
+| Platinum - uPortal Champion           | 19,000                   |
