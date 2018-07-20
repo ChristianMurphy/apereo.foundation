@@ -2,7 +2,8 @@
   <div class="mdl-layout__header-row">
     <!-- Title -->
     <span class="mdl-layout-title">
-      <a href="{{ site.baseurl }}{% link index.md %}">
+      <a class="apereo-header-title-link"
+        href="{{ site.baseurl }}{% link index.md %}">
         Apereo Foundation
       </a>
     </span>
@@ -10,13 +11,25 @@
     <div class="mdl-layout-spacer"></div>
     <!-- Navigation. We hide it in small screens. -->
     <nav class="mdl-navigation mdl-layout--large-screen-only">
-      <a class="mdl-navigation__link" href="{{ site.baseurl }}{% link projects.md %}">Projects</a>
-      <a class="mdl-navigation__link" href="{{ site.baseurl }}{% link events.md %}">Events</a>
       <a class="mdl-navigation__link"
-        href="{{ site.baseurl }}{% link membership/README.md %}">Memberships</a>
+        href="{{ site.baseurl }}{% link projects.md %}">
+        Projects
+      </a>
       <a class="mdl-navigation__link"
-        href="{{ site.baseurl }}{% link governance/README.md %}">Governance</a>
-      <a class="mdl-navigation__link" href="">Values</a>
+        href="{{ site.baseurl }}{% link events.md %}">
+        Events
+      </a>
+      <a class="mdl-navigation__link"
+        href="{{ site.baseurl }}{% link membership/README.md %}">
+        Memberships
+      </a>
+      <a class="mdl-navigation__link"
+        href="{{ site.baseurl }}{% link governance/README.md %}">
+        Governance
+      </a>
+      <a class="mdl-navigation__link" href="">
+        Values
+      </a>
     </nav>
   </div>
 </header>
