@@ -10,6 +10,12 @@ Apereo has a Board of Directors.
 
 TODO: Much more to say about the Board.
 
+## Meetings and minutes
+
+The Apereo Board of Directors typically meets monthly.
+
++ [Minutes](./minutes/)
+
 ## Standing Committees
 
 The Apereo bylaws require two standing committees
