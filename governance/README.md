@@ -8,4 +8,6 @@ permalink: governance/
 
 TODO: more to say about governance.
 
++ [Apereo Board of Directors](./board/)
+
 + [Newsletters](./newsletters/)
