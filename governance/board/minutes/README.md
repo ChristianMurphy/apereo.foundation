@@ -47,6 +47,14 @@ highlights as bullet points.
 + No "Executive Director's Written Report" for this meeting.
 + 41 minutes of executive session
 
+#### January ([2018-01-16](./2018-01-16-Apereo-Board-Minutes.pdf))
+
+(61 minutes)
+
++ Approved Board officer election timeline
++ Working on strategy document
++ Miguel Laghina seconded from role at *Research to serve as OAE Project Lead,
+  paid from OAE project funds.
 
 TODO pull in, link PDFs of minutes for, highlight points from, remaining Board
 meetings.
