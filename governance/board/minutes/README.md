@@ -24,6 +24,11 @@ highlights as bullet points.
   David, and Ian serving on `dutyofficer@apereo.org`.
 + improved cash balance following chasing down unpaid memberships
 + Budget not available due to changes in process; positive outlook
+  + Budget change: reduce Executive Director compensation 20% in keeping with
+    20% hours reduction. From May 1st onward, effected by Executive Director not
+    working Fridays.
+  + Budget change: Remove the accrued Executive Director retention bonus from
+    last year's out-turn and this year's budget
 + Approved March 2018 minutes
 
 #### March ([2018-03-20](./2018-03-20-Apereo-Board-Minutes-001.pdf))
