@@ -98,9 +98,17 @@ highlights as bullet points.
   community.
 + Approved September 2017 minutes, with redaction.
 
-#### September
+#### September ([2017-09-19](./2017-09-19-Apereo-Board-Minutes-003.pdf))
 
+(57 minutes, of which some amount of time in executive session)
 (Minutes approved in October 2017, with redaction.)
+
++ Approved pursuing LAMP memorandum of understanding.
++ Budget figures similar to previous Septembers.
++ Open Apereo Conference roughly loss of $40,000
++ Notes from this meeting's executive session will be appended to future minutes
+  when appropriate.
++ Approved July 2017 minutes.
 
 TODO pull in, link PDFs of minutes for, highlight points from, remaining Board
 meetings.
