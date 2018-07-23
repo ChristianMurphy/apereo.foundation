@@ -24,13 +24,15 @@ highlights as bullet points.
   David, and Ian serving on `dutyofficer@apereo.org`.
 + improved cash balance following chasing down unpaid memberships
 + Budget not available due to changes in process; positive outlook
++ Approved March 2018 minutes
 
 #### March ([2018-03-20](./2018-03-20-Apereo-Board-Minutes-001.pdf))
 
-(92 minutes)
+(92 minutes) (Minutes approved in April 2018)
 
 + Adopted board elections timeline
 + Extended strategic planning to two year rather than 2018 timeline
++ Approved January 2018 minutes
 
 #### February ([2018-02-20](./2018-02-20-Apereo-Board-Minutes-002.pdf))
 
@@ -46,21 +48,23 @@ highlights as bullet points.
   organizational leadership and compensation.
 + No "Executive Director's Written Report" for this meeting.
 + 41 minutes of executive session
++ Approved January 2018 minutes
 
 #### January ([2018-01-16](./2018-01-16-Apereo-Board-Minutes.pdf))
 
-(61 minutes)
+(61 minutes) (Minutes approved in February and March 2018)
 
 + Approved Board officer election timeline
 + Working on strategy document
 + Miguel Laghina seconded from role at *Research to serve as OAE Project Lead,
   paid from OAE project funds.
++ Approved December 2017 minutes
 
 ### 2017
 
 #### December ([2017-12-19](./2017-12-19-Apereo-Board-Minutes-002.pdf))
 
-(61 minutes)
+(61 minutes) (Minutes approved in January 2018)
 
 + Volunteered to draft strategic plan and metrics: Lucy Appert, Cheryl Brown,
   Doug Johnson, Jim Helwig
