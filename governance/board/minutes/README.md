@@ -17,6 +17,8 @@ highlights as bullet points.
 
 #### April ([2018-04-17](./2018-04-17-Apereo-Board-Minutes-002.pdf))
 
+(50 minutes)
+
 + **Approved OnTask incubation** proposal
 + **Operationalized Apereo Welcoming policy** with Board volunteers Lucy, Doug,
   David, and Ian serving on `dutyofficer@apereo.org`.
@@ -25,11 +27,14 @@ highlights as bullet points.
 
 #### March ([2018-03-20](./2018-03-20-Apereo-Board-Minutes-001.pdf))
 
+(92 minutes)
+
 + Adopted board elections timeline
 + Extended strategic planning to two year rather than 2018 timeline
 
 #### February ([2018-02-20](./2018-02-20-Apereo-Board-Minutes-002.pdf))
 
+(92 minutes)
 
 + Board officers unanimously re-elected to continue
   + President – David Ackerman
