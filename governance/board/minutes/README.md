@@ -30,22 +30,22 @@ highlights as bullet points.
 
 (92 minutes) (Minutes approved in April 2018)
 
-+ Adopted board elections timeline
 + Extended strategic planning to two year rather than 2018 timeline
++ Adopted board elections timeline
 + Approved January 2018 minutes
 
 #### February ([2018-02-20](./2018-02-20-Apereo-Board-Minutes-002.pdf))
 
 (92 minutes, of which 41 minutes in executive session)
 
++ Board instructed the Executive Director to implement restructuring of
+  organizational leadership and compensation.
++ Expressed desire to move toward greater transparency in financial reporting.
 + Board officers unanimously re-elected to continue
   + President – David Ackerman
   + Vice Chair – Lucy Appert
   + Treasurer – Charlie Leonhardt
   + Secretary – Doug Johnson
-+ Expressed desire to move toward greater transparency in financial reporting.
-+ Board instructed the Executive Director to implement restructuring of
-  organizational leadership and compensation.
 + No "Executive Director's Written Report" for this meeting.
 + Approved January 2018 minutes
 
@@ -53,10 +53,10 @@ highlights as bullet points.
 
 (61 minutes) (Minutes approved in February and March 2018)
 
-+ Approved Board officer election timeline
 + Working on strategy document
 + Miguel Laghina seconded from role at *Research to serve as OAE Project Lead,
   paid from OAE project funds.
++ Approved Board officer election timeline
 + Approved December 2017 minutes
 
 ### 2017
