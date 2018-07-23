@@ -28,9 +28,8 @@ highlights as bullet points.
 + Adopted board elections timeline
 + Extended strategic planning to two year rather than 2018 timeline
 
-#### February (2018-02-20) (92 minutes)
+#### February ([2018-02-20](./2018-02-20-Apereo-Board-Minutes-002.pdf))
 
-TODO: Include, link PDF minutes
 
 + Board officers unanimously re-elected to continue
   + President – David Ackerman
