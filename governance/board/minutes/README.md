@@ -28,5 +28,21 @@ highlights as bullet points.
 + Adopted board elections timeline
 + Extended strategic planning to two year rather than 2018 timeline
 
+#### February (2018-02-20) (92 minutes)
+
+TODO: Include, link PDF minutes
+
++ Board officers unanimously re-elected to continue
+  + President – David Ackerman
+  + Vice Chair – Lucy Appert
+  + Treasurer – Charlie Leonhardt
+  + Secretary – Doug Johnson
++ Expressed desire to move toward greater transparency in financial reporting.
++ Board instructed the Executive Director to implement restructuring of
+  organizational leadership and compensation.
++ No "Executive Director's Written Report" for this meeting.
++ 41 minutes of executive session
+
+
 TODO pull in, link PDFs of minutes for, highlight points from, remaining Board
 meetings.
