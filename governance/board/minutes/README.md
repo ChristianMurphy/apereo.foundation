@@ -36,7 +36,7 @@ highlights as bullet points.
 
 #### February ([2018-02-20](./2018-02-20-Apereo-Board-Minutes-002.pdf))
 
-(92 minutes)
+(92 minutes, of which 41 minutes in executive session)
 
 + Board officers unanimously re-elected to continue
   + President – David Ackerman
@@ -47,7 +47,6 @@ highlights as bullet points.
 + Board instructed the Executive Director to implement restructuring of
   organizational leadership and compensation.
 + No "Executive Director's Written Report" for this meeting.
-+ 41 minutes of executive session
 + Approved January 2018 minutes
 
 #### January ([2018-01-16](./2018-01-16-Apereo-Board-Minutes.pdf))
@@ -64,14 +63,13 @@ highlights as bullet points.
 
 #### December ([2017-12-19](./2017-12-19-Apereo-Board-Minutes-002.pdf))
 
-(61 minutes) (Minutes approved in January 2018)
+(61 minutes, of which 7 in executive session) (Minutes approved in January 2018)
 
 + Volunteered to draft strategic plan and metrics: Lucy Appert, Cheryl Brown,
   Doug Johnson, Jim Helwig
 + Volunteered wrt Foundation health metrics: Charlie Leonhardt
 + Discussed strategic planning
 + Approved June and November 2017 minutes
-+ 7 minutes of executive session
 
 TODO pull in, link PDFs of minutes for, highlight points from, remaining Board
 meetings.
