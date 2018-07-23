@@ -76,5 +76,12 @@ highlights as bullet points.
 + Discussed strategic planning
 + Approved June and November 2017 minutes
 
+#### November ([2017-11-20](./2017-11-20-Apereo-Board-Minutes-002.pdf))
+
+(50 minutes) (Minutes approved in December 2017)
+
++ Financial deficit seeming to result from written off memberships.
++ Approved October 2017 minutes
+
 TODO pull in, link PDFs of minutes for, highlight points from, remaining Board
 meetings.
