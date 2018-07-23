@@ -83,5 +83,24 @@ highlights as bullet points.
 + Financial deficit seeming to result from written off memberships.
 + Approved October 2017 minutes
 
+#### October ([2017-10-19](./2017-10-19-Apereo-Board-Minutes-002.pdf))
+
+(50 minutes) (Minutes approved in November 2017)
+
++ Approved LAMP Memorandum of Understanding.
++ Undertook policy review, intending to publish updated policies early in 2018.
++ Identified Board volunteers to develop plan for new website.
++ Set goal to strengthen the Incubation Working Group.
++ Two new incubation mentors (Sam Lee Pen, Las Kiesow) approved by Incubation
+  Working Group.
++ Financial deficit of $1,344 and expenses unpaid of ~$8,000
++ Adoption of MailChimp presents opportunity to solicit editorial help from
+  community.
++ Approved September 2017 minutes, with redaction.
+
+#### September
+
+(Minutes approved in October 2017, with redaction.)
+
 TODO pull in, link PDFs of minutes for, highlight points from, remaining Board
 meetings.
