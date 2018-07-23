@@ -56,5 +56,18 @@ highlights as bullet points.
 + Miguel Laghina seconded from role at *Research to serve as OAE Project Lead,
   paid from OAE project funds.
 
+### 2017
+
+#### December ([2017-12-19](./2017-12-19-Apereo-Board-Minutes-002.pdf))
+
+(61 minutes)
+
++ Volunteered to draft strategic plan and metrics: Lucy Appert, Cheryl Brown,
+  Doug Johnson, Jim Helwig
++ Volunteered wrt Foundation health metrics: Charlie Leonhardt
++ Discussed strategic planning
++ Approved June and November 2017 minutes
++ 7 minutes of executive session
+
 TODO pull in, link PDFs of minutes for, highlight points from, remaining Board
 meetings.
