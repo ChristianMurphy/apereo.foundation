@@ -110,5 +110,23 @@ highlights as bullet points.
   when appropriate.
 + Approved July 2017 minutes.
 
+#### July ([2017-07-18](./2017-07-18-Apereo-Board-Minutes-002.pdf))
+
+(68 minutes, of which 18 minutes in executive session.)
+(Minutes approved in September 2017).
+
++ Tabled financial report as Open Apereo 2017 finances still being finalized.
++ Approved interim Executive Director performance indicators as recommended by
+  Remuneration Committee.
++ A sub-committee will begin working on a remit for a Web Presence Work Group
+  with intent to possibly initiate this group sometime in the fall, in response
+  to one of a number of important issues for the Board to consider raised in a
+  rather lengthy email from Andrew Petro. Need to define sub-committee,
+  work(ing) group, ad hoc committee.
++ Executive Director will pull a couple board members into review of Code of
+  Conduct and Welcoming Policy and solicit volunteers from the community.
++ Approved June 2017 minutes, with addition of action items section
++ Approved May 2017 minutes.
+
 TODO pull in, link PDFs of minutes for, highlight points from, remaining Board
 meetings.
