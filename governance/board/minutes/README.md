@@ -138,6 +138,8 @@ TODO: The duration of this meeting is unclear. Header states
 "Adjourned: 1101 AM EDST" however body states
 "Meeting adjourned at 10:05 (EDST)"
 
+(Minutes approved in July 2017).
+
 + Approved Edalex becoming an Apereo member in principle contingent upon
   resolution of licensing issues.
 + Approved im+m becoming an Apereo member.
