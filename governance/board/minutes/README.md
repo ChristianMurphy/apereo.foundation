@@ -128,6 +128,8 @@ highlights as bullet points.
 + Approved June 2017 minutes, with addition of action items section
 + Approved May 2017 minutes.
 
+TODO: June 2017 minutes?
+
 #### May ([2017-05-16](./2017-05-16-Apereo-Board-Minutes-002.pdf))
 
 (117 minutes?)
