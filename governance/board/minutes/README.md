@@ -128,5 +128,37 @@ highlights as bullet points.
 + Approved June 2017 minutes, with addition of action items section
 + Approved May 2017 minutes.
 
+#### May ([2017-05-16](./2017-05-16-Apereo-Board-Minutes-002.pdf))
+
+(117 minutes?)
+
+TODO: The duration of this meeting is unclear. Header states
+"Adjourned: 1101 AM EDST" however body states
+"Meeting adjourned at 10:05 (EDST)"
+
++ Approved Edalex becoming an Apereo member in principle contingent upon
+  resolution of licensing issues.
++ Approved im+m becoming an Apereo member.
++ Created a non‐voting, Affiliate Membership with the "price point" to be
+  determined by the Executive Director based on local circumstances
++ Approved recommendation from licensing group, that
+  + Appoint Lars Kiesow and Travis Schmidt to Licensing Group
+  + No longer require a phone number from Individual Contributors and no longer
+    prescribe any policy about collecting or retaining phone numbers from
+    contributors.
+  + Start accepting and preferring a "preferred name" from individual
+    contributors, in addition to legal name
+  + Authorize licensing group to update website to acknowledge existence of
+    group and its membership.
++ Election of Apereo board member representing individual Apereo members to be
+  scheduled for Fall 2017
++ Guest: Linda Cooper, finance agent
++ Identified points of lack of clarity in how Apereo invoicing is, and should
+  be, taking place; Executive Director took Board feedback and will discuss with
+  Billing/Invoicing service
++ Thanked Chuck Severance for personally funding the Sakai Fellows program this
+  year
++ Approved April 2017 minutes.
+
 TODO pull in, link PDFs of minutes for, highlight points from, remaining Board
 meetings.
