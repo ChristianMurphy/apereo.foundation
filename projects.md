@@ -4,6 +4,8 @@ permalink: projects/
 description: Apereo is made up of a series of overlapping and interlocking software, regional and thematic communities.
 ---
 
+<img class="apereo-hero" src="{{ "/assets/image/undraw/undraw_tabs_jf82.svg" | absolute_url }}" alt="projects" />
+
 Apereo is made up of a series of overlapping and interlocking software, regional and thematic communities.
 
 ## Projects
@@ -11,7 +13,7 @@ Apereo is made up of a series of overlapping and interlocking software, regional
 <ul class="mdl-list">
 
 {% for project in site.projects %}
-  {% if project.incubation != true %}
+{% if project.incubation != true %}
 
     <li class="mdl-list__item mdl-list__item--two-line">
       <a href="{{ project.url }}">
@@ -21,18 +23,17 @@ Apereo is made up of a series of overlapping and interlocking software, regional
       </a>
     </li>
 
-  {% endif %}
+{% endif %}
 {% endfor %}
 
 </ul>
 
 ## Incubation Projects
 
-
 <ul class="mdl-list">
 
 {% for project in site.projects %}
-  {% if project.incubation == true %}
+{% if project.incubation == true %}
 
     <li class="mdl-list__item mdl-list__item--two-line">
       <a href="{{ project.url }}">
@@ -42,7 +43,7 @@ Apereo is made up of a series of overlapping and interlocking software, regional
       </a>
     </li>
 
-  {% endif %}
+{% endif %}
 {% endfor %}
 
 </ul>

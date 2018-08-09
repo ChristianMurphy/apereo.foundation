@@ -3,6 +3,10 @@ title: Apereo Events
 permalink: events/
 ---
 
+<img class="apereo-hero" src="{{ "/assets/image/undraw/undraw_events_2p66.svg" | absolute_url }}" alt="events" />
+
+# Events
+
 <ul class="mdl-list">
 
 {% for item in site.events %}
