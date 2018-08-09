@@ -1,6 +1,8 @@
 markdown: kramdown
 paginate: 10
 
+theme: materialize
+
 # Search engine optimizations
 url: https://apereo.foundation
 description: Apereo is a vibrant and value-driven education software foundation.
