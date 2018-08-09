@@ -1,5 +1,6 @@
 ---
 title: Apereo Governance
+image: /assets/image/undraw/undraw_collaboration2_8og0.svg
 layout: default
 permalink: governance/
 ---

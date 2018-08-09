@@ -2,6 +2,7 @@
 title: Apereo Projects
 permalink: projects/
 description: Apereo is made up of a series of overlapping and interlocking software, regional and thematic communities.
+image: /assets/image/undraw/undraw_tabs_jf82.svg
 ---
 
 <img class="apereo-hero" src="{{ "/assets/image/undraw/undraw_tabs_jf82.svg" | absolute_url }}" alt="projects" />

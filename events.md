@@ -1,5 +1,6 @@
 ---
 title: Apereo Events
+image: /assets/image/undraw/undraw_events_2p66.svg
 permalink: events/
 ---
 

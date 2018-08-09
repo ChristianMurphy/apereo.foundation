@@ -1,5 +1,7 @@
 ---
 title: Apereo Foundation
+image: /assets/image/undraw/undraw_website_setup_5hr2.svg
+description: This is a prototype of a Material Design, Jekyll, and GitHub Pages based Apereo website
 ---
 
 <img class="apereo-hero" src="{{ "/assets/image/undraw/undraw_website_setup_5hr2.svg" | absolute_url }}" alt="under construction" />
